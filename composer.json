@@ -1,0 +1,23 @@
+{
+    "name": "emielmolenaar/phpcs-laravel",
+    "type": "library",
+    "description": "PHPCS libraries and configuration for Laravel",
+    "keywords": [
+        "phpcs",
+        "laravel"
+    ],
+    "homepage": "https://github.com/emielmolenaar/phpcs-laravel",
+    "license": "Unlicense",
+    "authors": [
+        {
+            "name": "Emiel Molenaar",
+            "email": "emiel.molenaar@gmail.com"
+        }
+    ],
+    "require": {
+        "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
+        "sirbrillig/phpcs-import-detection": "^1.1",
+        "sirbrillig/phpcs-variable-analysis": "^2.6",
+        "squizlabs/php_codesniffer": "^3.4"
+    }
+}
