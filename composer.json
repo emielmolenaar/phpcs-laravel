@@ -1,6 +1,6 @@
 {
     "name": "emielmolenaar/phpcs-laravel",
-    "type": "library",
+    "type": "phpcodesniffer-standard",
     "description": "PHPCS libraries and configuration for Laravel",
     "keywords": [
         "phpcs",
@@ -14,7 +14,6 @@
             "email": "emiel.molenaar@gmail.com"
         }
     ],
-    "type": "phpcodesniffer-standard",
     "require": {
         "dealerdirect/phpcodesniffer-composer-installer": "^0.5.0",
         "sirbrillig/phpcs-import-detection": "^1.1",
