@@ -1,6 +1,6 @@
 {
     "name": "emielmolenaar/phpcs-laravel",
-    "type": "library",
+    "type": "phpcodesniffer-standard",
     "description": "PHPCS libraries and configuration for Laravel",
     "keywords": [
         "phpcs",
