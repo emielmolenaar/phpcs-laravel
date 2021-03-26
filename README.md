@@ -11,6 +11,6 @@ Afterwards, run `php vendor/bin/phpcs -i` to verify that `phpcs-laravel` is list
 
 You may now use the ruleset like so:
 
-`php vendor/bin/phpcs --standard=phpcs-laravel app/
+`php vendor/bin/phpcs --standard=phpcs-laravel app/`
 
 Contributions welcome.
