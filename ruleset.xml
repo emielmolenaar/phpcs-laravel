@@ -97,7 +97,6 @@
     <exclude-pattern>*/migrations/*</exclude-pattern>
     <exclude-pattern>*/config/*</exclude-pattern>
     <exclude-pattern>*/public/index.php</exclude-pattern>
-    <exclude-pattern>*/*.blade.php</exclude-pattern>
     <exclude-pattern>*/Middleware/*</exclude-pattern>
     <exclude-pattern>*/Console/Kernel.php</exclude-pattern>
     <exclude-pattern>*/Exceptions/Handler.php</exclude-pattern>
