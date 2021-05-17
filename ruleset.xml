@@ -74,7 +74,7 @@
     </rule>
     <rule ref="Generic">
         <exclude-pattern>*.php</exclude-pattern>
-        <exclude name="Generic.Strings.UnnecessaryStringConcat.Found)"/>
+        <exclude name="Generic.Strings.UnnecessaryStringConcat.Found"/>
     </rule>
 
     <file>app</file>
