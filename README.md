@@ -1,3 +1,4 @@
+# [DEPRECATED] [Laravel Pint](https://laravel.com/docs/9.x/pint) is an excellent, maintained replacement. Thanks to all contributers while this repository was still alive!
 
 # Emiel Molenaar's PHPCS Configuration 
 
